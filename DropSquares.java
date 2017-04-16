@@ -10,7 +10,8 @@ import java.util.*;
  *  never use 'x', or when there is a conflict with iter names and param names, change BOTH
  *  for 2D arrays, storing as [y],[x] is better
  *  use testable methods (no field vars that are hard to keep track of, pass everything)
- *  test often, visual aids help!
+ *  test often, visual aids help, but don't spend too much time
+
  */
 
 class Solution {
